@@ -1799,11 +1799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\platzi\\proyectoef\\proyectoef.csproj",
+      "projectUniqueName": "C:\\platzi\\cursoEF\\proyectoef\\proyectoef.csproj",
       "projectName": "proyectoef",
-      "projectPath": "C:\\platzi\\proyectoef\\proyectoef.csproj",
+      "projectPath": "C:\\platzi\\cursoEF\\proyectoef\\proyectoef.csproj",
       "packagesPath": "C:\\Users\\clari\\.nuget\\packages\\",
-      "outputPath": "C:\\platzi\\proyectoef\\obj\\",
+      "outputPath": "C:\\platzi\\cursoEF\\proyectoef\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\clari\\AppData\\Roaming\\NuGet\\NuGet.Config",

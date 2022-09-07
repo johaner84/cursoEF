@@ -13,7 +13,7 @@ public class Tarea
     
     [Required]
     [MaxLength(200)]
-    public string Titulo{get;set}
+    public string Titulo{get;set;}
     public string Descripcion { get; set; }    
 
     public Prioridad PrioridadTarea { get; set; }
